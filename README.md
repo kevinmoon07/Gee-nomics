@@ -1,2 +1,2 @@
 # Gee-nomics
-Program that receives a user-inputted DNA string and returns the matches found in library of DNA
+Program that searches a .txt file containing the DNA of an organism for a user-specified DNA string sequence. The program receives a DNA string input from the user and searches the organism’s DNA to return the starting position(s) and number of either exact matches or matches differing by at most one character. In addition to the DNA string input, a similarity threshold can be specified by the user to return the name and similarity percentage of closely matching DNA sequences.
